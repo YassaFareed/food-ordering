@@ -1,0 +1,25 @@
+{
+  "files.exclude": {
+    ".idea": true,
+    ".vscode": true,
+    "android": true,
+    "ios": true,
+    ".dart_tool": true,
+    "web": true,
+    "README.md": true,
+    "pubspec.lock": true,
+    ".packages": true,
+    ".metadata": true,
+    "food_ordering_app.iml": true,
+    ".gitignore": true,
+    "auth\\.dart_tool": true,
+    "auth\\.idea": true,
+    "auth\\.gitignore": true,
+    "auth\\.metadata": true,
+    "auth\\.packages": true,
+    "auth\\auth.iml": true,
+    "auth\\CHANGELOG.md": true,
+    "auth\\LICENSE": true,
+    "auth\\pubspec.lock": true
+  }
+}
