@@ -1,4 +1,4 @@
-import './token.dart';
+import 'token.dart';
 import 'package:async/async.dart';
 
 abstract class ISignUpService{

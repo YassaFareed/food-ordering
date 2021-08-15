@@ -2,9 +2,9 @@ import 'dart:convert';
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:http/http.dart' as http;
-import '../../../src/infra/api/auth_api.dart';
+import '../../../lib/src/infra/api/auth_api.dart';
 import 'package:mockito/mockito.dart';
-import '../../../src/domain/credential.dart';
+import '../../../lib/src/domain/credential.dart';
 import 'package:async/async.dart';
 
 class MockClient extends Mock implements http.Client {}
